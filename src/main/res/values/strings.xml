@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Bazaar</string>
+    <string name="title_activity_main2">Smart Bazaar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Panchal Meet</string>
+    <string name="nav_header_subtitle">meetpanchal738@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_your_order">YourOrder</string>
+</resources>

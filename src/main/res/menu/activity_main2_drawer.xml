@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@mipmap/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/shopnow"
+            android:icon="@mipmap/shop"
+            android:title="Shop Now" />
+        <item
+            android:id="@+id/order"
+            android:icon="@mipmap/order"
+            android:title="Your Order" />
+        <item
+            android:id="@+id/payment"
+            android:icon="@mipmap/payment"
+            android:title="Payment" />
+        <item
+            android:id="@+id/category"
+            android:icon="@mipmap/category"
+            android:title="Category" />
+
+        <item
+            android:id="@+id/faq"
+            android:icon="@mipmap/faqs"
+            android:title="FAQs" />
+
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/account"
+                android:icon="@mipmap/account"
+                android:title="Account" />
+
+            <item
+                android:id="@+id/about"
+                android:icon="@mipmap/about"
+                android:title="About Us" />
+
+            <item
+                android:id="@+id/privacy"
+                android:icon="@mipmap/privacy"
+                android:title="Privacy Policy" />
+
+            <item
+                android:id="@+id/login"
+                android:icon="@mipmap/login"
+                android:title="Logout" />
+
+        </menu>
+    </item>
+
+</menu>
